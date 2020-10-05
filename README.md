@@ -9,6 +9,10 @@ This is a Restaurant Theme Website Template, designed using html and css. It was
 1. Subscribe & Share my YouTube Channel - https://bit.ly/vijay-thapa-online-courses
 2. Add a Star 🌟  to this 👆 Repository
 
+## Donate
+
+**Donate by wire transfer:** contact *donate@vijaythapa.com* for wire transfer details. 
+
 
 
 ## Technologies Used
