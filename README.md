@@ -11,7 +11,11 @@ This is a Restaurant Theme Website Template, designed using html and css. It was
 
 ## Donate
 
-**Donate by wire transfer:** contact *donate@vijaythapa.com* for wire transfer details. 
+**[PayPal](https://bit.ly/support-vijay-thapa)**
+
+**[Buy me a Coffee  ☕️](https://www.buymeacoffee.com/vijaythapa)**
+
+**Donate by wire transfer:** ✉️ E-Mail at *donate@vijaythapa.com* for wire transfer details. 
 
 
 
